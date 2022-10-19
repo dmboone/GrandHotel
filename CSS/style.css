@@ -72,4 +72,11 @@ body{
     color: #555;
 }
 /* end of sidebar */
+
+/* navigation */
+.navigation{
+    margin-left: 8rem;
+    position: fixed; /* removes gap of space at top of navbar caused by margin on h1 */
+}
+/* end of navigation */
 /* end of navbar */
